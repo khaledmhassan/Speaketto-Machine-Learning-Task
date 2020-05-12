@@ -1,5 +1,6 @@
 # Speaketto-Machine-Learning-Task
-Prediction of Ruthenium metal price based on future date
+Prediction of Ruthenium metal price based on future date.
+
 Rare metals are known to increase in value in times of crisis as evidenced by the current global pandemic and previous world events. One of the rare metals is called Ruthenium.
 Although it is a known fact that predicting future prices of such metals is a complicated science that must take into consideration lots of factors (economical, political, mines discovery, .. etc), for this task, a small and limited data is offered to work on which is the monthly prices of the rare metal starting from July 1992.
 
